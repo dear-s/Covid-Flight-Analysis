@@ -1,0 +1,218 @@
+.main{
+    color: white;
+    font-family: 'Times New Roman',
+    Times,
+    serif;
+}
+
+h1, h4, h3{
+    text-align: center;
+    font-family: 'Times New Roman',
+    Times,
+    serif;
+}
+
+h1{
+    text-transform: uppercase;
+    font-family: 'Times New Roman',
+    Times,
+    serif;
+    padding-top: 20px;
+    margin-bottom: 40px;
+}
+
+.thh, .tdd{
+    padding: 2px;
+    text-align: center;
+    border: 1px solid white;
+    width: auto;
+    height: auto;
+    font-family: 'Times New Roman',
+    Times,
+    serif;
+}
+
+th{
+    color:aqua;
+    font-family: 'Times New Roman',
+    Times,
+    serif;
+}
+
+table{
+    width: 47em;
+    align-items: center;
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-right: 10px;
+}
+
+#affectedAirlines{
+    padding: 40px;
+}
+
+#affectedAirlines2{
+    padding: 40px;
+}
+
+#affectedAirlines3{
+    padding: 40px;
+}
+
+.radials{
+}
+
+#circle_dark_blue{
+    width: 10px;
+    height: 10px;
+    background: #1f77b4;
+    border-radius: 50%;
+    color: #1f77b4;
+}
+
+#circle_light_blue{
+    width: 10px;
+    height: 10px;
+    background: #aec7e8;
+    border-radius: 50%;
+    color: #aec7e8;
+}
+
+#circle_orange {
+    width: 10px;
+    height: 10px;
+    background: #ff7f0e;
+    border-radius: 50%;
+    color: #ff7f0e;
+}
+
+.radial19_text{
+    color: aqua;
+    font-size: large;
+    text-transform: capitalize;
+    border: 1px solid white;
+    text-align: center;
+    margin-left: 5em;
+}
+
+.radial20_text{
+    color: aqua;
+    font-size: large;
+    text-transform: capitalize;
+    border: 1px solid white;
+    text-align: center;
+    margin-left: 5em;
+}
+
+.th2{
+    text-align: left;
+    padding-left: 150px;
+    padding-bottom: 20px;
+    text-decoration: underline;
+    color: azure;
+    font-size: medium;
+    font-family: 'Times New Roman',
+    Times,
+    serif;
+}
+
+.heliports_text{
+    padding-left: 8em;
+    font-size: medium;
+    font-family: 'Times New Roman',
+    Times,
+    serif;
+    text-decoration: underline;
+
+}
+
+.port_align {
+    padding-left: 7em;
+}
+
+.medium_align{
+    padding-left: 7em;
+}
+
+.small_align{
+    padding-left: 2em;
+}
+
+.large_align{
+    padding-left: 4em;
+}
+
+.small_airports_text{
+    padding-left: 20em;
+    font-size: medium;
+    font-family: 'Times New Roman',
+    Times,
+    serif;
+    text-decoration: underline;
+}
+
+.medium_airports_text{
+    padding-left: 6em;
+    font-size: medium;
+    font-family: 'Times New Roman',
+    Times,
+    serif;
+    text-decoration: underline;
+}
+
+.large_airports_text{
+    padding-left: 18em;
+    font-size: medium;
+    font-family: 'Times New Roman',
+    Times,
+    serif;
+    text-decoration: underline;
+}
+
+.most_active_donuts{
+    margin-top: 2em;
+}
+
+.stream_headline{
+    margin-top: 4em;
+    text-transform: capitalize;
+    font-family: 'Times New Roman',
+    Times,
+    serif;
+}
+
+.stream_graph{
+    margin-top: 30px;
+}
+
+.kpi1{
+    margin:20px auto;
+}
+
+.kpi {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: .75rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    border: 1px solid #ebedef;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.kpi__value {
+    margin-top: 1.5rem;
+    margin-bottom: .25rem;
+    font-size: 2rem;
+    line-height: 1;
+
+    
+}
+
+.kpi__description {
+    font-size: 0.7rem;
+    line-height: 1.1;
+    
+}

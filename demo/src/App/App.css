@@ -1,0 +1,178 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.white-background {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  background-color: rgba(204,204,204, 0.15);
+  width: 100%;
+  height: 100%;
+}
+
+#acrDiag{
+  height: 500px;
+  width: 600px;
+  border:1px solid black;
+}
+
+#detailsArcDiagram{
+color: white;
+max-height: 800px;
+}
+
+
+.multiLineClass{
+  
+}
+
+.palette{
+
+}
+
+#regionTravel{
+  width: 400px;
+  text-align: center;
+  color: white;
+}
+
+.title{
+  color: white;
+  text-align: center;
+  }
+
+#monthTitle{
+  width: 600px;
+  text-align: center;
+  color: white;
+}
+
+#travelSummary{
+ 
+}
+
+#travelSummarySafety{
+
+  
+}
+
+#detailsArcDiagram{
+  height: 300px;
+  width: 600px;
+  text-align: center;
+}
+
+#chart{
+  border:1px solid black;
+}
+
+#mapbox{
+  margin: 0 auto;
+  width: 950px;
+  height: 1000px;
+  margin-right: 100px;
+}
+
+#airportName{
+  color: white;
+}
+
+#monthName{
+  color: white; 
+}
+
+#heading{
+  text-align: center;
+  color: white;
+  margin: 10px;
+}
+
+#month_airport{
+  padding-left: 5em;
+}
+
+#regionTravelSummary{
+  padding: 10px;
+}
+
+#messageMapbox{
+  text-align: center;
+  color: white;
+}
+
+#transitionArc{
+  color: white;
+}
+
+.hover path {
+  stroke: #ccc;
+}
+
+.hover text {
+  fill: #ccc;
+}
+
+.hover g.primary text {
+  fill: black;
+  font-weight: bold;
+}
+
+.hover g.secondary text {
+  fill: #333;
+}
+
+.hover path.primary {
+  stroke: #333;
+  stroke-opacity: 1;
+}
+
+
+#charttransition{
+}
+
+.bar {
+  fill:lightseagreen;
+}
+
+.reset {
+  border-radius: 3px;
+  background-color: #eee;
+  height: 30px;
+}
+
