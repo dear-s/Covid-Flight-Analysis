@@ -1,16 +1,13 @@
-# DSCI 554 Project
+# DSCI 554 Project [Data Visualization]
 
 ## Team
 
-Team name:
-
 Team members:
 
-- Chia-Chi Dai <chiachid@usc.edu>
-- Prajakta Khandve <khandve@usc.edu>
-- Sanya Singh <sanyasin@usc.edu>
-- Simran Makandar <makandar@usc.edu>
-
+- Sanya Singh
+- Prajakta Khandve
+- Chia-Chi Dai
+- Simran Makandar
 ---
 
 ## Artifacts
