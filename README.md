@@ -1,5 +1,7 @@
 # DSCI 554 Project [Data Visualization]
 
+![Output sample](https://github.com/dear-s/Covid-Flight-Analysis/blob/main/project_recording.gif)
+
 ## Team
 
 Team members:
